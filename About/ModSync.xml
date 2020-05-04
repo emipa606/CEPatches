@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>a8a09c0d-4b53-4c99-a722-42e87dfe890c</ID>
   <ModName>CE Patches for Continued Mods</ModName>
-  <Version>1.0.2.0</Version>
+  <Version>1.0.3.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
