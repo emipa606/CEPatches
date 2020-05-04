@@ -18,6 +18,7 @@
   <loadAfter>
     <li>CETeam.CombatExtended</li>
     <li>Mlie.ArrowPlease</li>
+    <li>Mlie.DoomFactions</li>
   </loadAfter>
   <description>Adds support for Combat Extended for my Continued mods.
 https://steamcommunity.com/workshop/filedetails/?id=1541984105
@@ -35,6 +36,9 @@ https://github.com/emipa606/CEPatches
 
 Arrow Please (Continued)
 https://steamcommunity.com/sharedfiles/filedetails/?id=2064675036
+
+DOOM - Factions (Continued)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2048103517
 
   </description>
 </ModMetaData>

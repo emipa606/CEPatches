@@ -5,8 +5,7 @@
       <li>Arrow Please (Continued)</li>
     </mods>
     <match Class="PatchOperationSequence">
-      <success>
-      </success>
+      <success>Always</success>
       <operations>
         <!-- === Ranged_Crossbow === -->
         <li Class="PatchOperationReplace">
